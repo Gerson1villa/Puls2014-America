@@ -40,13 +40,21 @@ Repositorio de codigo GITHUB(Master)
 		* experimental local
 	* master (server1.com) Repositorio Reproduccion
 
+HTML
+<!DOCTYPE html> := hace referencia a que se va a utlizar html5
+html no es un lenguaje de programcion si no que es un lenguaje modelado de informacion. html es utilizada tipo arbol, la cual <html> tiene dos ramas
+1. <head> := es todo lo que no se ve en la pagina pero es importante que se coloque, <head> tiene un hijo que es <title> esta etiqueta es obligatoria ya que es el titulo de la pagina para que el navegador.
+2. <body> := es todo lo que se ve en la pagina y por ende es importante.
 
+en la etiqueta <html> es importante agregar el idioma ej> <html lang="es">
+--si la pagina es para varios idiomas se debe de utilizar subdominios para poder gestionarlos.
 
+En el gestor de "codigos ej sublime" se debe de poner utf-8, en File -> Save with encoding -> UTF-8
+luego dentro de la etiqueta <head> se debe de utilizar la etiqueta <meta charset="utf/8"/> esto es con el fin que para cuando hay tildes o "ñ", no salgan con simbolos si no que automaticamente salgan bien tal y como son, ya que es una forma de codificar dentro de los SO de tal manera que salgan bien las tildes como la "ñ".
 
+otro meta importante es el <meta description = "hasta 160 caracteres">, esta etiqueta se puede poner sobre una descripcion de lo que hace la web, debe de ser unica, esto es utilizado cuando se busca la pagina entonces sale una descriocion de lo que es la pagina.
 
-
-
-
+en HTML solo hay que ver la forma mas facil en adaptar el dise;o
 
 
 
