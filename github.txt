@@ -1,0 +1,60 @@
+La web se mide en pixeles_
+
+	- Fronted: interaccion directa con el usuario html(lenguaje modelado de informacion), css(estilos de cascada, lenguaje declarado), js(lenguaje de programacion)
+	- Backend: php, .net, java, etc
+	- BD mysql, postgres,sql server, oracle,, MongoDB(no relacional), Fyango, Pytton, Express.js, Node.js,, html, jquery js,, css3 stylus
+
+Mocap: debe de ser feo para que el diseñador le salga la imaginacion
+
+320px ancho de un iphone, no es 640 por retina.
+
+diseño elastico.
+
+problemas de ftp:
+1. Multiples personas en el equipo
+2. No hay culpa
+
+SISTEMA DE CONTROL DE VERSIONES
+SVN: Subversion / Mercurial / TFS / CVS / GIT
+Github:
+1. Red Social de programadores jajaja
+2. Web / Apps
+3. Es facil
+
+Como funciona
+
+Repositorio de codigo GITHUB(Master)
+	Clon local
+		commit - sync
+1. Multiples versiones de codigo
+2. Cambios Delta
+	BD atomica del codigo
+3. Historial de cada archivo
+4. Multiples personas trabajan en el archivo
+5. CULPA AL CULPABLE
+6. Ramas(branches)
+	* master (github.com) Repositorio Principal
+	* master (disco duro) Repositorio Local
+		* master
+			--- MERGE (experimental - master)
+		* experimental local
+	* master (server.com) Repositorio Reproduccion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
