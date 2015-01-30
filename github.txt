@@ -38,7 +38,7 @@ Repositorio de codigo GITHUB(Master)
 		* master
 			--- MERGE (experimental - master)
 		* experimental local
-	* master (server.com) Repositorio Reproduccion
+	* master (server1.com) Repositorio Reproduccion
 
 
 
